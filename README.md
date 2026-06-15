@@ -2,11 +2,6 @@
 
 A fully functional e-commerce application featuring a complete shopping pipeline, secure user authentication, real-time basket management, credit card processing via Stripe, and persistent order history tracking powered by Firebase.
 
----
-
-## 🚀 Live Demo
-
-> Run locally following the setup guide below.
 
 ---
 
