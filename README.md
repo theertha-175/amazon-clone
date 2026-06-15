@@ -18,7 +18,7 @@ A fully functional e-commerce application featuring a complete shopping pipeline
 | ![Checkout](screenshots/checkout.png) | ![Payment](screenshots/payment.png) |
 
 ### 3. Order Completion
-| Persistent Order History |
+| Order Details |
 |--------------------------|
 | ![Orders](screenshots/orders.png) |
 
