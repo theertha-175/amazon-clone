@@ -15,17 +15,17 @@ A fully functional e-commerce application featuring a complete shopping pipeline
 ### 1. Product Discovery & Authentication
 | Home Page (Product Grid) | User Authentication |
 |--------------------------|-------------------|
-| ![Home](#) | ![Login](#) |
+| ![Home](screenshots\home.png.png) | ![Login](screenshots\login.png.png) |
 
 ### 2. Shopping Cart & Order Verification
 | Checkout Page (Cart & Subtotal) | Payment Page (Stripe Integration) |
 |---------------------------------|----------------------------------|
-| ![Checkout](#) | ![Payment](#) |
+| ![Checkout](screenshots\checkout.png.png) | ![Payment](screenshots\payment.png.jpg) |
 
 ### 3. Order Completion
 | Persistent Order History |
 |--------------------------|
-| ![Orders](#) |
+| ![Orders](screenshots\orders.png.jpg) |
 
 ---
 
@@ -129,3 +129,35 @@ Use Stripe's test card to simulate payments:
 ---
 
 ## 📁 Project Structure
+amazon-clone/
+├── public/
+├── src/
+│   ├── App.js
+│   ├── Home.js / Home.css
+│   ├── Header.js / Header.css
+│   ├── Product.js / Product.css
+│   ├── Checkout.js / Checkout.css
+│   ├── Payment.js / Payment.css
+│   ├── Orders.js / Orders.css
+│   ├── Login.js / Login.css
+│   ├── reducer.js
+│   ├── StateProvider.js
+│   ├── firebase.js
+│   ├── axios.js
+│   └── stripe.js
+├── functions/
+│   └── index.js
+├── firebase.json
+└── README.md
+
+---
+
+## 🔄 Payment Flow
+
+Add Product → Basket → Checkout → Stripe Payment → Firestore Order Saved → Basket Cleared → Orders Page
+
+---
+
+## 👩‍💻 Author
+
+Built by **Theertha** as part of an 8-hour Full-Stack React challenge.
