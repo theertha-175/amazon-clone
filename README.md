@@ -20,7 +20,7 @@ A fully functional e-commerce application featuring a complete shopping pipeline
 ### 3. Order Completion
 | Persistent Order History |
 |--------------------------|
-| ![Orders](screenshots/orders.png.jpg) |
+| ![Orders](screenshots/orders.png) |
 
 ---
 
