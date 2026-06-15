@@ -13,7 +13,7 @@ A fully functional e-commerce application featuring a complete shopping pipeline
 | ![Home](screenshots/home.png) | ![Login](screenshots/login.png) |
 
 ### 2. Shopping Cart & Order Verification
-| Checkout Page (Cart & Subtotal) | Payment Page (Stripe Integration) |
+| Checkout Page (Cart & Subtotal) | Payment Page |
 |---------------------------------|----------------------------------|
 | ![Checkout](screenshots/checkout.png) | ![Payment](screenshots/payment.png) |
 
