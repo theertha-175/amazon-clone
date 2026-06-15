@@ -1,4 +1,4 @@
-# 🛒 Amazon Clone — Full-Stack E-Commerce Platform
+# 🛒 Amazon Clone - Full-Stack E-Commerce Platform
 
 A fully functional e-commerce application featuring a complete shopping pipeline, secure user authentication, real-time basket management, credit card processing via Stripe, and persistent order history tracking powered by Firebase.
 
@@ -43,7 +43,7 @@ This platform uses a decoupled cloud architecture to handle frontend delivery, b
 - Firebase Cloud Functions (Serverless Backend)
 
 **Database & Auth:**
-- Cloud Firestore (NoSQL — stores user order history)
+- Cloud Firestore (NoSQL - stores user order history)
 - Firebase Authentication (Email/Password)
 
 **Hosting:**
@@ -54,13 +54,13 @@ This platform uses a decoupled cloud architecture to handle frontend delivery, b
 
 ## ✨ Core Features
 
-- 🏠 **Dynamic Home Page** — Product grid with images, titles, prices, and star ratings
-- 🛍️ **Shopping Basket** — Add/remove products with real-time item count and subtotal calculation
-- 🔐 **User Authentication** — Secure account creation and persistent login sessions via Firebase Auth
-- 💳 **Stripe Payment Gateway** — Fully tokenized card input using Stripe Elements, routed through a secure Express backend endpoint
-- 📦 **Order History** — Every successful transaction is instantly logged to Cloud Firestore and displayed on the Orders page
-- 🔄 **Global State Management** — Context API and useReducer hook power a clean, predictable state machine across all components
-- 📱 **Responsive Layout** — Flexbox-based design mimicking Amazon's desktop storefront layout
+- 🏠 **Dynamic Home Page** - Product grid with images, titles, prices, and star ratings
+- 🛍️ **Shopping Basket** - Add/remove products with real-time item count and subtotal calculation
+- 🔐 **User Authentication** - Secure account creation and persistent login sessions via Firebase Auth
+- 💳 **Stripe Payment Gateway** - Fully tokenized card input using Stripe Elements, routed through a secure Express backend endpoint
+- 📦 **Order History** - Every successful transaction is instantly logged to Cloud Firestore and displayed on the Orders page
+- 🔄 **Global State Management** - Context API and useReducer hook power a clean, predictable state machine across all components
+- 📱 **Responsive Layout** - Flexbox-based design mimicking Amazon's desktop storefront layout
 
 ---
 
