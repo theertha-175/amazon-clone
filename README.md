@@ -10,17 +10,17 @@ A fully functional e-commerce application featuring a complete shopping pipeline
 ### 1. Product Discovery & Authentication
 | Home Page (Product Grid) | User Authentication |
 |--------------------------|-------------------|
-| ![Home](screenshots\home.png.png) | ![Login](screenshots\login.png.png) |
+| ![Home](screenshots/home.png) | ![Login](screenshots/login.png) |
 
 ### 2. Shopping Cart & Order Verification
 | Checkout Page (Cart & Subtotal) | Payment Page (Stripe Integration) |
 |---------------------------------|----------------------------------|
-| ![Checkout](screenshots\checkout.png.png) | ![Payment](screenshots\payment.png.jpg) |
+| ![Checkout](screenshots/checkout.png) | ![Payment](screenshots/payment.png) |
 
 ### 3. Order Completion
 | Persistent Order History |
 |--------------------------|
-| ![Orders](screenshots\orders.png.jpg) |
+| ![Orders](screenshots/orders.png.jpg) |
 
 ---
 
